@@ -1,0 +1,12 @@
+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
+
+
+
+
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
+
+
+
+https://www.youtube.com/watch?v=ePCBuIQJAUc
