@@ -4,12 +4,13 @@ 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
 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
 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
 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
+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
 
 
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
+git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
 
 git push -u origin main
 
