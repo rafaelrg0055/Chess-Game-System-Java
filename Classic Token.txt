@@ -1,13 +1,14 @@
 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
-revogado... segue o novo abaixo:
+revogado pelo Git após 2 commits... segue o novo abaixo:
 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
 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
+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
 
 
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
+git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
 
 git push -u origin main
 
