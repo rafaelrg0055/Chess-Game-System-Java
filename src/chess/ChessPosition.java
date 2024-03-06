@@ -31,7 +31,7 @@ public class ChessPosition {
 				
 	// ---------------------------------------------------------- ACTIONS
 	
-	protected Position toposition() {
+	protected Position toPosition() {
 		return new Position(8 - row, column - 'a');
 	}
 	
