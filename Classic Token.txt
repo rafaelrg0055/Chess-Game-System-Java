@@ -1,3 +1,6 @@
+https://www.youtube.com/watch?v=ePCBuIQJAUc
+
+
 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
 revogado pelo Git após 2 commits... segue o novo abaixo:
 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
@@ -8,14 +11,25 @@ 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
 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
 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
 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
+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
 
 
 
 git remote set-url origin https://<token>@github.com/<username>/<repo>
 
-git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
+git remote set-url origin https://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@github.com/rafaelrg0055/Chess-Game-System-Java
 
 git push -u origin main
 
 
-https://www.youtube.com/watch?v=ePCBuIQJAUc
+
+
+--------------------------------------------------------------------
+
+Após um temp ocorre outro erro:
+ error: GH013: Repository rule violations found for refs/heads/main.
+ [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/rafaelrg0055/Chess-Game-System-Java'
+
+R:
+Precisa desativar em Settings > Security > Code security and analysis > Secret scanning
