@@ -71,6 +71,7 @@ public class Pawn extends ChessPiece{
 	}
 	
 	
+	// ---------------------------------------------------------- STRING
 	@Override
 	public String toString() {
 		return "P";
